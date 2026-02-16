@@ -19,9 +19,3 @@ Podés ver el sitio funcionando acá:
 - Aplicar **estilos con CSS puro**
 - Construir una **web estática completamente navegable**
 - Comprender la organización de archivos en un sitio real
-
-## ▶️ Cómo ejecutar el proyecto
-
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/TU-USUARIO/acfe-blog-static.git
