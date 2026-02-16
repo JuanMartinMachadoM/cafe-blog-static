@@ -4,7 +4,7 @@ Este proyecto consiste en una **página web estática de un blog sobre café**, 
 
 ## 🌐 Demo online
 Podés ver el sitio funcionando acá:  
-👉 https://blogdecafe-estatico-jm.netlify.app/cursos
+👉 https://blogdecafe-estatico-jm.netlify.app/
 
 ## 🛠️ Tecnologías utilizadas
 
